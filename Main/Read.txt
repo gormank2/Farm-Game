@@ -1,0 +1,21 @@
+Kylie Gorman
+IMM 120
+Final Project
+
+Instructions for Farm Game:
+1. Your mouse will control your character, the pig. 
+2. Avoid the farmers who are chasing you. 
+3. The number of lives you have will appear in the top left corner.
+4. You will lose a life if you collide with a farmer. 
+5. After you lose 5 lives, the game ends and your score will appear. 
+(A sound of a pig will play)
+
+
+Elements Integrated from Class Lectures: 
+1. Mouse/Key Input: Your mouse control the position of your player.
+2. Graphics: Text is displayed throughout the game. Your lives appear in the top left corner and based on the frame count, text will display your score at the end of the game.
+3. Objects: Objects are utilized for the enemy characters. Instead of rewriting code, multiple enemy objects are created.
+4. Lists: A for loop and an array are used to create the multiple enemy objects, but give them different speeds. 
+5. Images: Instead of using a color for the background, an image of a farm was used. 
+6. Sound: A sound of a pig plays at the end of the game. 
+7. Libraries: The Minim library was used for sound. 
